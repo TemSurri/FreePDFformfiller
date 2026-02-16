@@ -2,10 +2,7 @@
 
 <img width="927" height="787" alt="Screenshot 2025-10-02 at 9 22 42 PM" src="https://github.com/user-attachments/assets/7d9a6217-b6da-4a8b-8e34-07d2624b3e7e" />
 
-BTW Since im not rich, it's deployed on the free versions of a serverless prodiver called render, so upon 30 mins of inactivity the web service falls asleep, and takes like 30 seconds to wake up.
-
-# Status
-Currently on https://thefreepdfeditorsimple.onrender.com/
+Not deployed anymore
 
 Current Fix Agenda: 
 - UI buttons are a little hard to follow and misleading + automate the dpeloymnt
